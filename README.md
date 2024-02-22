@@ -1,3 +1,4 @@
+![backgroung](assets/images/background_git.jpg)
 ### Hi there 👋
 
 <!--
