@@ -8,4 +8,4 @@ With 5 years of experience in [V-capital](https://ma.v-capital.cn/en/) (a ventur
 
 My desire to be directly involved in tech development has motivated me to transition into the tech industry. I'm immersed in my tech journey, continually exploring diverse facets of the IT landscape.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/hezhixie/) for a more detailed description of my experience, education and skills. You can get in touch with me by email at [hezxie@ucdavis.edu](hezxie@ucdavis.edu). 
+Please find me on [LinkedIn](https://www.linkedin.com/in/hezhixie/) for a more detailed description of my experience, education and skills. You can get in touch with me by email at [hezxie@ucdavis.edu](mailto:hezxie@ucdavis.edu). 
