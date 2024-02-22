@@ -1,45 +1,7 @@
 ![background](https://github.com/helenxie-bit/helenxie-bit/blob/main/background_git.jpg)
+
 ### Hi there 👋
 
-<!--
-**helenxie-bit/helenxie-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a computer science graduate student at UC Davis. With 5 years of experience in [V-capital](ma.v-capital.cn/en/) (a venture capital specializing in tech investments), I've gained valuable insights into business and technology, as well as excellent communication and coordination skills. My desire to be directly involved in tech development has motivated me to transition into the tech industry. I'm immersed in my tech journey, continually exploring diverse facets of the IT landscape.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Account age: **{{ ACCOUNT_AGE }}** years
-
-Pushed **{{ COMMITS }}** commits
-
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+Please find me on [LinkedIn](www.linkedin.com/in/hezhixie/) for a more detailed description of my experience, education and skills. You can get in touch with me by email at [hezxie@ucdavis.edu](hezxie@ucdavis.edu). 
