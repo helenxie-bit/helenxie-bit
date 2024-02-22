@@ -1,4 +1,4 @@
-![backgroung](background_git.jpg)
+![background](https://github.com/helenxie-bit/helenxie-bit/blob/main/backgroung_git.jpg)
 ### Hi there 👋
 
 <!--
